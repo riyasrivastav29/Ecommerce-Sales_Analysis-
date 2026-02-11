@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales Data Analysis Project (Python + MySQL)- 
+# 📊 E-Commerce Sales Data Analysis Project (Python + MySQL)
 <br>In this project, I analyzed an e-commerce database by integrating Python with MySQL to extract, process, and visualize business insights.</br>
 <br> 1.Used advanced SQL functions including JOIN, CTE, GROUP BY, WINDOW FUNCTIONS, and AGGREGATIONS for business insights.</br>
 <br> 2.Analyzed customer locations, yearly order trends, category-wise sales, and payment behaviors.</br>
